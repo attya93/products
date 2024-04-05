@@ -1,0 +1,7 @@
+#dropdown-basic::after{
+    display: none;
+}
+
+.dropWidth{
+    width: 290px ;
+}

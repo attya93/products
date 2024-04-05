@@ -1,0 +1,4 @@
+.product_img{
+    object-fit: contain;
+    aspect-ratio: 8 / 6;
+}
